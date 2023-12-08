@@ -1,0 +1,23 @@
+.title{
+    margin-left: 450px;
+    color: lightblue;
+   
+}
+h2{
+    font-weight: bolder;
+    font-size: 40px;
+}
+.home-box{
+  box-shadow: 0 0 3px;
+  border-radius: 3px;
+  min-height: 300px;
+  margin-top: 10px;
+}
+
+.home-box h3{
+  background-color: lightblue;
+  padding: 5px 0 7px;
+  text-align: center;
+  color: white;
+  margin-bottom: 25px;
+}

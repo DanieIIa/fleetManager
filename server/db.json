@@ -23,14 +23,6 @@
       "phone": "36706898900",
       "city": "bp",
       "address": "Kisvirág utca"
-    },
-    {
-      "name": "Példa Péter",
-      "email": "peter@gmail.com",
-      "phone": "2232321",
-      "city": "la",
-      "address": "Sport utca",
-      "id": 4
     }
   ],
   "vehicles": [
@@ -84,13 +76,6 @@
       "id": 2
     },
     {
-      "vehicleId": "3",
-      "driverId": "4",
-      "amount": "60",
-      "date": "2023-02-09",
-      "id": 3
-    },
-    {
       "vehicleId": "5",
       "driverId": "2",
       "amount": "25",
@@ -103,13 +88,6 @@
       "amount": "45",
       "date": "2023-07-07",
       "id": 5
-    },
-    {
-      "vehicleId": "1",
-      "driverId": "4",
-      "amount": "70",
-      "date": "2023-11-30",
-      "id": 8
     }
   ]
 }
