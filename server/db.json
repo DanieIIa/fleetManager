@@ -1,115 +1,115 @@
 {
-    "drivers": [
-      {
-        "id": 1,
-        "name": "John Doe",
-        "email": "joh.doe@gmail.com",
-        "phone": "36209547822",
-        "city": "Budapest",
-        "address": "Kossuth utca"
-      },
-      {
-        "id": 2,
-        "name": "Példa Anna",
-        "email": "pelda.anna@gmail.com",
-        "phone": "36706898900",
-        "city": "Debrecen",
-        "address": "Honvéd utca"
-      },
-      {
-        "id": 3,
-        "name": "Kis Miklós",
-        "email": "miklos@gmail.com",
-        "phone": "36706898900",
-        "city": "Komárom",
-        "address": "Kisvirág utca"
-      },
-      {
-        "name": "Példa Péter",
-        "email": "peter@gmail.com",
-        "phone": "2232321",
-        "city": "TatabányA",
-        "address": "Sport utca",
-        "id": 4
-      }
-    ],
-    "vehicles": [
-      {
-        "id": 1,
-        "lp": "AUH-240",
-        "year": 1991,
-        "manufacturer": "Mercedes",
-        "cionsumtion": 8,
-        "engine": "benzin"
-      },
-      {
-        "id": 2,
-        "lp": "UJR-986",
-        "year": 1998,
-        "manufacturer": "Honda",
-        "cionsumtion": 4,
-        "engine": "benzin"
-      },
-      {
-        "lp": "MNW-986",
-        "year": "2003",
-        "manufacturer": "BMW",
-        "cionsumtion": "5",
-        "engine": "dízel",
-        "id": 3
-      },
-      {
-        "lp": "IDN-932",
-        "year": "2004",
-        "manufacturer": "Opel",
-        "cionsumtion": "12",
-        "engine": "benzin",
-        "id": 4
-      },
-      {
-        "lp": "HDS-205",
-        "year": "1999",
-        "manufacturer": "Mercedes",
-        "cionsumtion": "8",
-        "engine": "dízel",
-        "id": 5
-      }
-    ],
-    "fuelings": [
-      {
-        "vehicleId": "2",
-        "driverId": "3",
-        "amount": "11",
-        "date": "2023-09-22",
-        "id": 2
-      },
-      {
-        "vehicleId": "3",
-        "driverId": "4",
-        "amount": "60",
-        "date": "2023-02-09",
-        "id": 3
-      },
-      {
-        "vehicleId": "5",
-        "driverId": "2",
-        "amount": "25",
-        "date": "2023-06-06",
-        "id": 4
-      },
-      {
-        "vehicleId": "5",
-        "driverId": "3",
-        "amount": "45",
-        "date": "2023-07-07",
-        "id": 5
-      },
-      {
-        "vehicleId": "1",
-        "driverId": "4",
-        "amount": "70",
-        "date": "2023-11-30",
-        "id": 8
-      }
-    ]
-  }
+  "drivers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "joh.doe@gmail.com",
+      "phone": "36209547822",
+      "city": "la",
+      "address": "Kossuth utca"
+    },
+    {
+      "id": 2,
+      "name": "Példa Anna",
+      "email": "pelda.anna@gmail.com",
+      "phone": "36706898900",
+      "city": "bp",
+      "address": "Honvéd utca"
+    },
+    {
+      "id": 3,
+      "name": "Kis Miklós",
+      "email": "miklos@gmail.com",
+      "phone": "36706898900",
+      "city": "bp",
+      "address": "Kisvirág utca"
+    },
+    {
+      "name": "Példa Péter",
+      "email": "peter@gmail.com",
+      "phone": "2232321",
+      "city": "la",
+      "address": "Sport utca",
+      "id": 4
+    }
+  ],
+  "vehicles": [
+    {
+      "id": 1,
+      "lp": "AUH-240",
+      "year": 1991,
+      "manufacturer": "Mercedes",
+      "cionsumtion": 8,
+      "engine": "benzin"
+    },
+    {
+      "id": 2,
+      "lp": "UJR-986",
+      "year": 1998,
+      "manufacturer": "Honda",
+      "cionsumtion": 4,
+      "engine": "benzin"
+    },
+    {
+      "lp": "MNW-986",
+      "year": "2003",
+      "manufacturer": "BMW",
+      "cionsumtion": "5",
+      "engine": "dízel",
+      "id": 3
+    },
+    {
+      "lp": "IDN-932",
+      "year": "2004",
+      "manufacturer": "Opel",
+      "cionsumtion": "12",
+      "engine": "benzin",
+      "id": 4
+    },
+    {
+      "lp": "HDS-205",
+      "year": "1999",
+      "manufacturer": "Mercedes",
+      "cionsumtion": "8",
+      "engine": "dízel",
+      "id": 5
+    }
+  ],
+  "fuelings": [
+    {
+      "vehicleId": "2",
+      "driverId": "3",
+      "amount": "11",
+      "date": "2023-09-22",
+      "id": 2
+    },
+    {
+      "vehicleId": "3",
+      "driverId": "4",
+      "amount": "60",
+      "date": "2023-02-09",
+      "id": 3
+    },
+    {
+      "vehicleId": "5",
+      "driverId": "2",
+      "amount": "25",
+      "date": "2023-06-06",
+      "id": 4
+    },
+    {
+      "vehicleId": "5",
+      "driverId": "3",
+      "amount": "45",
+      "date": "2023-07-07",
+      "id": 5
+    },
+    {
+      "vehicleId": "1",
+      "driverId": "4",
+      "amount": "70",
+      "date": "2023-11-30",
+      "id": 8
+    }
+  ]
+}
