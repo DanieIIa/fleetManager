@@ -11,7 +11,9 @@ export class ConfigService {
       { key: 'email', text: 'Email', type: "email" },
       { key: 'phone', text: 'Phone', type: "number" },
       { key: 'city', text: 'City', type: "select", 
-      options: [{value: "la", text: "LA"},
+      options: [{value: "e", text: "Eger"},
+                {value: "k", text: "Komárom"},
+                {value: "t", text: "Tatabánya"},
                 {value: "bp", text: "Budapest"},
               ]},
       { key: 'address', text: 'Address', type: "text" }

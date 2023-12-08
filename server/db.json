@@ -5,7 +5,7 @@
       "name": "John Doe",
       "email": "joh.doe@gmail.com",
       "phone": "36209547822",
-      "city": "la",
+      "city": "e",
       "address": "Kossuth utca"
     },
     {
@@ -21,7 +21,7 @@
       "name": "Kis Miklós",
       "email": "miklos@gmail.com",
       "phone": "36706898900",
-      "city": "bp",
+      "city": "k",
       "address": "Kisvirág utca"
     }
   ],
@@ -31,7 +31,7 @@
       "lp": "AUH-240",
       "year": 1991,
       "manufacturer": "Mercedes",
-      "cionsumtion": 8,
+      "cionsumtion": "10",
       "engine": "benzin"
     },
     {
@@ -65,6 +65,14 @@
       "cionsumtion": "8",
       "engine": "dízel",
       "id": 5
+    },
+    {
+      "lp": "GRL-865",
+      "year": "1996",
+      "manufacturer": "BMW",
+      "cionsumtion": "3",
+      "engine": "dízel",
+      "id": 6
     }
   ],
   "fuelings": [
@@ -88,6 +96,20 @@
       "amount": "45",
       "date": "2023-07-07",
       "id": 5
+    },
+    {
+      "driverId": "1",
+      "vehicleId": "4",
+      "amount": "20",
+      "date": "2023-12-22",
+      "id": 6
+    },
+    {
+      "driverId": "2",
+      "vehicleId": "3",
+      "amount": "5",
+      "date": "2023-12-13",
+      "id": 7
     }
   ]
 }
